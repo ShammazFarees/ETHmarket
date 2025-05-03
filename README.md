@@ -3,27 +3,6 @@
 ---
 
 ```markdown
-# Ethereum (ETH/USDT) Price Forecasting using ARIMA
-
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-
-A time series analysis project to forecast Ethereum prices using ARIMA models. Includes data collection, EDA, model training, and 30-day forecasts.
-
----
-
-## 📌 Table of Contents
-1. [Project Overview](#-project-overview)
-2. [Key Features](#-key-features)
-3. [Installation](#%EF%B8%8F-installation)
-4. [Usage](#-usage)
-5. [Results](#-results)
-6. [Contributing](#-contributing)
-7. [License](#-license)
-8. [References](#-references)
-
----
 
 ## 📝 Project Overview
 **Objective**: Predict Ethereum (ETH/USDT) prices using historical data and ARIMA models.  
