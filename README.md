@@ -1,4 +1,4 @@
-Here’s a professional `README.md` file for your GitHub repository, structured to showcase your **Ethereum Price Forecasting with ARIMA** project:
+**Ethereum Price Forecasting with ARIMA**
 
 ---
 
